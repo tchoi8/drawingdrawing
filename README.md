@@ -2,6 +2,7 @@
 A class at SFPC Fall 2019
 
 Teacher: Taeyoon Choi 
+
 5 Sessions, 3 hour classes 
 
 drawing drawing is a class about visual storytelling and the joy of drawing. The class is inspired by Shantell Martin's class "[Drawing on Everything](https://itp.nyu.edu/classes/doe-spring2014/files/2014/02/DRAWING-ON-EVERYTHING-WITH-SHANTELL-MARTIN-SPRING-2014-ITP.pdf)." Drawing is a fundamental human act of mark making. How can we take drawing to the next level? Can we introduce the concept of time and space into drawing? Can we tell stories by drawing? Can we perform drawing? 
@@ -40,7 +41,8 @@ Topics:
 - Factial features and outline
 - Expressions and movement
 
-Materials: pencil and sketchpad, hand mirrors
+Materials: pencil and sketchpad, hand mirrors.
+
 Homework: Draw a portrait of your classmate and a self portrait. 
 
 # Class 4 Comic
@@ -52,7 +54,8 @@ Topics:
 - Plot 
 - Text and lettering  
 
-Materials: Ink, brush and sketchpad 
+Materials: Ink, brush and sketchpad.
+
 Homework: Draw a 4 scene comic depicting a day in life at SFPC. 
 
 # Class 5 Storybook
@@ -65,4 +68,5 @@ Topics:
 - Visual storytelling 
 
 Materials: Ink, brush and sketchpad. 
+
 Homework: Complete your storybook that consists of 2 pages. 
