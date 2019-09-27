@@ -18,8 +18,9 @@ Topics:
 - Flowers and fruits 
 - Lights and perspectives 
 
--- Materials: Charcoal on paper, no eraser. 
--- Homework: Draw a still life from your bedroom. 
+Materials: Charcoal on paper, no eraser. 
+
+Homework: Draw a still life from your bedroom. 
 
 # Class 2 Landscape
 
@@ -29,8 +30,9 @@ Topics:
 - Making marks and noticing textures 
 - Depicting scales and movement 
 
--- Materials: pencil and sketchpad 
--- Homework: Draw a landscape of WestBeth and SFPC courtyard from unconventional perspecives. Be creative about getting the perspective. 
+Materials: pencil and sketchpad 
+
+Homework: Draw a landscape of WestBeth and SFPC courtyard from unconventional perspecives. Be creative about getting the perspective. 
 
 # Class 3 Portrait
 
@@ -41,8 +43,9 @@ Topics:
 - Factial features and outline
 - Expressions and movement
 
--- Materials: pencil and sketchpad, hand mirrors.
--- Homework: Draw a portrait of your classmate and a self portrait. 
+Materials: pencil and sketchpad, hand mirrors.
+
+Homework: Draw a portrait of your classmate and a self portrait. 
 
 # Class 4 Comic
 
@@ -53,9 +56,9 @@ Topics:
 - Plot 
 - Text and lettering  
 
--- Materials: Ink, brush and sketchpad.
+Materials: Ink, brush and sketchpad.
 
--- Homework: Draw a 4 scene comic depicting a day in life at SFPC. 
+Homework: Draw a 4 scene comic depicting a day in life at SFPC. 
 
 # Class 5 Storybook
 
@@ -66,6 +69,6 @@ Topics:
 - Layout
 - Visual storytelling 
 
--- Materials: Ink, brush and sketchpad. 
+Materials: Ink, brush and sketchpad. 
 
--- Homework: Complete your storybook that consists of 2 pages. 
+Homework: Complete your storybook that consists of 2 pages. 
